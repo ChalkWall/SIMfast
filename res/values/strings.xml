@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SIM fast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_help">Help</string>
+    <string name="app_description">"SIM fast gives you quick access to internal information about your Phone, SIM and Carrier.\n\nWe suggest you keep this app handy on your phone because the information provided by SIM fast is what your provider will most likely ask when calling them for support.\n\n\nNeed support for this app?\nVisit  www.andcrypt.com</string>
+
+</resources>
